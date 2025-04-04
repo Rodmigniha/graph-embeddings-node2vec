@@ -1,0 +1,7 @@
+numpy
+networkx
+torch
+torch.nn
+torch.optim
+scikit-learn
+matplotlib
