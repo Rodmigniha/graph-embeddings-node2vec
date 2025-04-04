@@ -52,10 +52,7 @@ Cela affiche les scores de similarité cosinus et génère une visualisation du 
 - 🔹 **Meilleur modèle sauvegardé** : `results/best_model.pt`
 - 🔹 **Visualisation du clustering** : `results/clustering_visualization.png`
 
-
 ---
-✉ **Contact** : rodrigue.pro2020@gmail.com
-
 
 ## Auteurs
 
